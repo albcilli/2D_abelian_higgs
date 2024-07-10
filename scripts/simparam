@@ -1,0 +1,9 @@
+RANDOM	
+100000	100	10	2
+0.90	-1.0
+0.5	0.8
+LEN
+LEN
+./confs/config_INDEX
+./data/dati_INDEXe
+./logs/log_INDEX
